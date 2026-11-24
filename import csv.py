@@ -85,6 +85,7 @@ def validasi_data(data):
     print("\nHASIL VALIDASI DATASET")
     print("Jumlah data valid       :", len(data_valid))
     print("Jumlah data tidak valid :", jumlah_tidak_valid)
+    print("1")
 
     return data_valid
 
